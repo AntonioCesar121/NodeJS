@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+/* selectores
+class .
+id  #
+elemento  etiqueta * */
+body{
+    background-color:#4c6be7;
+    font-family:'Open Sans',sans-serif;
+    width: 80%;
+    border: 2px solid brown;
+    margin:0 auto;
+}
+header{
+    background-color: darkgreen;
+    color: lightcoral;
+    text-align: center;
+}
+.seccion1{
+    background-color: greenyellow;
+    color: black;
+    min-height: 400px;
+}
+#1{
+    color: aliceblue;
+}
+#2{
+    color: red;
+}
+#3{
+    color: blueviolet;
+}
+footer{
+    background-color: darkred;
+    color: white;
+    text-align: center;
+    height: 150px;
+    line-height: 150px;
+}
